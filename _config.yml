@@ -24,6 +24,7 @@ twitter_username: ComunicacionUV
 github_username:  forcesk
 title_separator: "|"
 email: tolivares@uv.mx
+#keywords: "ingenieria, universidad veracruzana, uv,agenda ambiental,"
 
 # Build settings
 markdown: kramdown
