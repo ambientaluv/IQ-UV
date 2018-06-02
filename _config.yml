@@ -16,3 +16,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - programa.md
+  - Lugar.md
+  - Directorio.md
