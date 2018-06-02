@@ -15,3 +15,7 @@ permalink: /Programa/
 - Inauguración de Exposición con Temática Ambiental
 - Presentación de Proyectos por las diversas áreas de Ingeniería.
 - Intervención Musical.
+
+
+
+![alt text](/img/logo25.jpeg)
