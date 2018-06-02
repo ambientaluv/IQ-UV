@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![alt text](/img/posterAmbiente.jpeg)
