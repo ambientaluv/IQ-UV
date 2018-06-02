@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Nosotros
-permalink: /nosotros/
----
+#layout: page
+#title: Nosotros
+#permalink: /nosotros/
+#---
 
-![alt text](/img/logo25.jpeg)
+#![alt text](/img/logo25.jpeg)
