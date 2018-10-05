@@ -6,3 +6,5 @@ layout: home
 ---
 
 ![alt text](/img/posterAmbiente.jpeg)
+
+Próximamente espera nuevas noticias, del nuevo evento.
